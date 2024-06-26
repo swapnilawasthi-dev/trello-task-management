@@ -1,5 +1,5 @@
 {
-  "name": "kanban-task-management",
+  "name": "trello-task-management",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite --host",
